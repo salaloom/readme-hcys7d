@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salaloom.github.io/readme-hcys7d/sitemap.xml
